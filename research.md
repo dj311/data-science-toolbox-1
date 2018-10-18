@@ -3,13 +3,9 @@
 Following topics:
 
   - What are the broad types of data?
-
   - What are the main types of resource?
-
   - What type of problems can the resources solve?
-
   - Are there any generic data science resources that might be applicable? In what sense are they applicable?
-
   - How might the approach be compared to other approaches, and/or applied across different datasets?
 
 ## Resources
@@ -17,9 +13,9 @@ Following topics:
 Stochastic Identification of Malware with Dynamic Traces (https://arxiv.org/pdf/1404.2462.pdf):
 
 Using program runtime traces as a data source and applying Markov chains to classify them as malware:
-  -  Can we find good data for this?
-  -  www.secrepo.com linked to http://panda.gtisc.gatech.edu/malrec/ which has links to “RR log” files (execution traces of malware)
-  -  Would need to find “nice” execution traces as well.
+  - Can we find good data for this?
+  - www.secrepo.com linked to http://panda.gtisc.gatech.edu/malrec/ which has links to “RR log” files (execution traces of malware)
+  - Would need to find “nice” execution traces as well.
   - RR files can be read and recorded by https://github.com/moyix/panda-malrec
 
 A Markov Chain Model of Temporal Behavior for Anomaly Detection (http://projects.laas.fr/METROSEC/DOC/WA1_1.pdf):
