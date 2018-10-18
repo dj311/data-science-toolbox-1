@@ -2,29 +2,29 @@
 
 Following topics:
 
-    What are the broad types of data?
+  - What are the broad types of data?
 
-    What are the main types of resource?
+  - What are the main types of resource?
 
-    What type of problems can the resources solve?
+  - What type of problems can the resources solve?
 
-    Are there any generic data science resources that might be applicable? In what sense are they applicable?
+  - Are there any generic data science resources that might be applicable? In what sense are they applicable?
 
-    How might the approach be compared to other approaches, and/or applied across different datasets?
+  - How might the approach be compared to other approaches, and/or applied across different datasets?
 
 ## Resources
 
 Stochastic Identification of Malware with Dynamic Traces (https://arxiv.org/pdf/1404.2462.pdf):
 
-    > Using program runtime traces as a data source and applying Markov chains to classify them as malware:
-    > Can we find good data for this?
-    > www.secrepo.com linked to http://panda.gtisc.gatech.edu/malrec/ which has links to “RR log” files.
-    > I’m pretty sure they are the output of Mozilla’s “rr” tool (https://github.com/mozilla/rr/wiki/Usage) and are execution traces of malware.
-    > Would need to find “nice” execution traces as well.
+Using program runtime traces as a data source and applying Markov chains to classify them as malware:
+  -  Can we find good data for this?
+  -  www.secrepo.com linked to http://panda.gtisc.gatech.edu/malrec/ which has links to “RR log” files (execution traces of malware)
+  -  Would need to find “nice” execution traces as well.
+  - RR files can be read and recorded by https://github.com/moyix/panda-malrec
 
 A Markov Chain Model of Temporal Behavior for Anomaly Detection (http://projects.laas.fr/METROSEC/DOC/WA1_1.pdf):
 
-    > Gets a bunch of records associating users with events (e.g. resource accesses) including process id’s etc. Then tries to learn a transition probability matrix for normal and bad behaviour over time.
+> Gets a bunch of records associating users with events (e.g. resource accesses) including process id’s etc. Then tries to learn a transition probability matrix for normal and bad behaviour over time.
 
 https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/  using data mining for network security and intrusion detection
 
@@ -32,8 +32,7 @@ https://medium.com/cyberdefenders/python-for-cybersecurity-lesson-3-data-analysi
 
 Survey Paper: https://ieeexplore.ieee.org/abstract/document/7307098/
 
-    Quote:
-
+  - Quote:
     > There are three main types of cyber analytics in support of IDSs [intrusion detection systems]: misuse-based (sometimes also called signature-based), anomaly-based, and hybrid.
     >
     > Misuse-based techniques are designed to detect known attacks by using signatures of those attacks. They are effective for detecting known type of attacks without generating an overwhelming number of false alarms. They require frequent manual updates of the database with rules and signatures. Misuse-based techniques cannot detect novel (zero-day) attacks.
@@ -56,7 +55,7 @@ To do
 
 Techniques within machine learning:
 
-    Clustering (e.g. k-means https://ieeexplore.ieee.org/document/5231545)
+  - Clustering (e.g. k-means https://ieeexplore.ieee.org/document/5231545)
 
 ### Neural Networks
 
