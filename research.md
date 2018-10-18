@@ -43,6 +43,11 @@ Survey Paper: https://ieeexplore.ieee.org/abstract/document/7307098/
 
 Another survey paper: https://www.sciencedirect.com/science/article/pii/S108480451200183X
 
+Zeus malware analysis (http://www.secrepo.com/Datasets%20Description/PE_malware/Zeus.html) with paper (https://alrawi.github.io/static/papers/unzeus_www13.pdf):
+
+  - Uses multiple techniques (k-NN, decision/classification trees, support vector machine, and Logistic Regression), then compares them
+  - Uses of the shelf algorithms from mlpy (http://mlpy.sourceforge.net/)
+
 ## Techniques
 
 Try to find resources which use all three of these techniques.
