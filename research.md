@@ -44,6 +44,9 @@ Zeus malware analysis (http://www.secrepo.com/Datasets%20Description/PE_malware/
   - Uses multiple techniques (k-NN, decision/classification trees, support vector machine, and Logistic Regression), then compares them
   - Uses of the shelf algorithms from mlpy (http://mlpy.sourceforge.net/)
 
+Look at "weird" network data (http://www.secrepo.com/Datasets%20Description/Network/weird.html)
+
+
 ## Techniques
 
 Try to find resources which use all three of these techniques.
