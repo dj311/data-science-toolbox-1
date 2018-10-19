@@ -59,7 +59,7 @@ To do
 
 Techniques within machine learning:
 
-  - Clustering (e.g. k-means https://ieeexplore.ieee.org/document/5231545)
+  - Clustering (e.g. k-means https://ieeexplore.ieee.org/document/5231545, https://pdfs.semanticscholar.org/634e/2f1a20755e7ab18e8e8094f48e140a32dacd.pdf, https://perso.telecom-paristech.fr/qleroy/aml/lab5.html)
 
 ### Neural Networks
 
