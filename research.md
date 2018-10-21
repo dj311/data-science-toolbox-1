@@ -46,7 +46,7 @@ Zeus malware analysis (http://www.secrepo.com/Datasets%20Description/PE_malware/
 
 Look at "weird" network data (http://www.secrepo.com/Datasets%20Description/Network/weird.html)
 
-https://github.com/sooshie/Security-Data-Analysis(security data anaylsis)
+https://github.com/sooshie/Security-Data-Analysis  (security data anaylsis) 
 
 ## Techniques
 
