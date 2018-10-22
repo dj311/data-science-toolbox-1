@@ -13,6 +13,6 @@ Requires a working Python 3 installation (tested with 3.6.5). Given that, the fo
 
 ## Data Sources and Licensing
 The following files were sourced from Mike Sconzo at [SecRepo](https://secrepo.com) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/):
-  - <./resources/Zeus.csv>
-  - <./resources/OPCleaver.csv>
-  - <./resources/VirusShare.csv>
+  - [./resources/Zeus.csv](./resources/Zeus.csv)
+  - [./resources/OPCleaver.csv](./resources/OPCleaver.csv)
+  - [./resources/VirusShare.csv](./resources/VirusShare.csv)
