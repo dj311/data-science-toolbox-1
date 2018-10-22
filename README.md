@@ -3,7 +3,7 @@
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/dj311/data-science-toolbox-1/master)
 
 ## Research
-A summmary/working document of research can be found in [./research.md](./research.md).
+A summary/working document of research can be found in [./research.md](./research.md).
 
 ## Python Setup
 Requires a working Python 3 installation (tested with 3.6.5). Given that, the following steps will setup a virtual environment with all the right bits:
