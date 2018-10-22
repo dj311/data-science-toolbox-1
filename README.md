@@ -18,3 +18,4 @@ The following files were sourced from Mike Sconzo at [SecRepo](https://secrepo.c
   - [./resources/Zeus.csv](./resources/Zeus.csv)
   - [./resources/OPCleaver.csv](./resources/OPCleaver.csv)
   - [./resources/VirusShare.csv](./resources/VirusShare.csv)
+Full dataset available [here](http://www.secrepo.com/Security-Data-Analysis/Lab_2/http.log.zip) This is the http.log referenced in Time series of Http bro log, released under the [Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
