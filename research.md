@@ -43,6 +43,7 @@ Zeus malware analysis (http://www.secrepo.com/Datasets%20Description/PE_malware/
 
   - Uses multiple techniques (k-NN, decision/classification trees, support vector machine, and Logistic Regression), then compares them
   - Uses of the shelf algorithms from mlpy (http://mlpy.sourceforge.net/)
+  - Can we apply this technique to malicious URLS? Can use [this work](https://github.com/surajr/URL-Classification/blob/master/URL%20Classification.ipynb) as a basis (TODO: Check licensing).
 
 Look at "weird" network data (http://www.secrepo.com/Datasets%20Description/Network/weird.html). Description of workflow and analysis is at https://www.sans.org/reading-room/whitepapers/detection/intrusion-detection-relationship-analysis-37352.
 
