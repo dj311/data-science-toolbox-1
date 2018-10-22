@@ -1,5 +1,7 @@
 # Data Science Toolbox: Assignment 1
 
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/dj311/data-science-toolbox-1/master)
+
 ## Research
 A summmary/working document of research can be found in [./research.md](./research.md).
 
