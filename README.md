@@ -2,8 +2,15 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/dj311/data-science-toolbox-1/master)
 
+## Assessment
+Along with the working documents in this repo, the final team report can be found at [./report.ipynb](./report.ipynb). This can be run locally (after following the instructions under [Python Setup](#python-setup)) or in a temporary [Binder](https://mybinder.org/) notebook using the "Launch Binder" button above.
+
+The final report does not have the cell outputs included. Selecting `Kernel > Restart 7 Run All` in the notebook menu should generate the final document.
+
+
 ## Research
 A summary/working document of research can be found in [./research.md](./research.md).
+
 
 ## Python Setup
 Requires a working Python 3 installation (tested with 3.6.5). Given that, the following steps will setup a virtual environment with all the right bits:
