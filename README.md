@@ -5,7 +5,7 @@
 ## Assessment
 Along with the working documents in this repo, the final team report can be found at [./report.ipynb](./report.ipynb). This can be run locally (after following the instructions under [Python Setup](#python-setup)) or in a temporary [Binder](https://mybinder.org/) notebook using the "Launch Binder" button above.
 
-The final report does not have the cell outputs included. Selecting `Kernel > Restart 7 Run All` in the notebook menu should generate the final document.
+The final report does not have the cell outputs included. Selecting `Kernel > Restart & Run All` in the notebook menu should generate the final document.
 
 
 ## Research
